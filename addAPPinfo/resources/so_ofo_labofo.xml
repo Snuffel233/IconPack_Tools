@@ -1,0 +1,3 @@
+<item component="ComponentInfo{so.ofo.labofo/so.ofo.labofo.activities.EntryActivity}" drawable="so_ofo_labofo" />
+<item component="ComponentInfo{so.ofo.labofo/com.qihoo.util.StartActivity}" drawable="so_ofo_labofo" />
+<item component="ComponentInfo{so.ofo.labofo/com.stub.stub01.Stub01}" drawable="so_ofo_labofo" />

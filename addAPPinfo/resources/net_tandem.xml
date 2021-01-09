@@ -1,0 +1,4 @@
+<item component="ComponentInfo{net.tandem/net.tandem.ui.MainActivity}" drawable="net_tandem" />
+<item component="ComponentInfo{net.tandem/net.tandem.ui.DefaultLaunchActivity}" drawable="net_tandem" />
+<item component="ComponentInfo{net.tandem/net.tandem.ui.TencentSplashActivity}" drawable="net_tandem" />
+<item component="ComponentInfo{net.tandem/net.tandem.ui.S360SplashActivity}" drawable="net_tandem" />

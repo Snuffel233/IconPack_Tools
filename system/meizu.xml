@@ -1,0 +1,45 @@
+    <!-- 计步器 / Pedometer -->
+    <item component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}" drawable="flyme_pedometer" />
+    <!-- 钱包 / Wallet -->
+    <item component="ComponentInfo{com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity}" drawable="flyme_wallet" />
+    <!-- 生活服务 / Life -->
+    <item component="ComponentInfo{com.meizu.media.life/com.meizu.media.life.home.HomeActivity}" drawable="flyme_life" />
+    <!-- 用户帮助 / User Support -->
+    <!-- 语音助手 / SmartVoice -->
+    <item component="ComponentInfo{com.meizu.voiceassistant/com.meizu.voiceassistant.MainActivity}" drawable="flyme_smart_voice" />
+    <!-- 系统升级 / Update -->
+    <item component="ComponentInfo{com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity}" drawable="flyme_sys_update" />
+    <!-- 工具箱 / Toolbox -->
+    <item component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}" drawable="flyme_toolbox" />
+    <!-- 画板 / Painter -->
+    <item component="ComponentInfo{com.meizu.media.painter/com.meizu.media.painter.PainterMainActivity}" drawable="flyme_painter" />
+
+    <!-- 福利中心 / Benefits Center -->
+    <item component="ComponentInfo{com.meizu.compaign/com.meizu.component.HomeActivity}" drawable="flyme_benefits_center" />
+    <!-- 福利中心 / Benefits Center -->
+    <item component="ComponentInfo{com.meizu.compaign/com.meizu.welfarecentre.modules.home.HomePagerActivity}" drawable="flyme_benefits_center" />
+    
+    <item component="ComponentInfo{com.meizu.flyme.find/com.meizu.flyme.find.ui.LoginActivity}" drawable="flyme_find_my_phone" />
+    
+    <item component="ComponentInfo{com.meizu.account/com.meizu.account.MeizuAccountActivity}" drawable="flyme_account" />
+    
+    <item component="ComponentInfo{com.meizu.flyme.launcher/com.meizu.flyme.launcher.Launcher}" drawable="flyme_home" />
+    <item component="ComponentInfo{com.meizu.flyme.flymebbs/com.meizu.flyme.flymebbs.activity.WelcomeActivity}" drawable="flyme_bbs" />
+    
+    <item component="ComponentInfo{com.meizu.flyme.mall/com.meizu.flyme.mall.modules.home.HomeActivity}" drawable="youx" />
+    <item component="ComponentInfo{com.meizu.media.life/com.meizu.media.life.base.home.HomeActivity}" drawable="flyme_life" />
+    
+    <item component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.home.HomeActivity}" drawable="flyme_store" /><!-- 魅族商城 / 魅族商城 -->
+    <item component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.screen.main.Main2Activity}" drawable="flyme_store" /><!-- 魅族商城 / 魅族商城 -->
+    <item component="ComponentInfo{com.meizu.store/com.meizu.store.screen.main.Main2Activity}" drawable="flyme_store" /><!-- 魅族商城 / 魅族商城 -->
+    <item component="ComponentInfo{com.meizu.store/com.qihoo.util.StartActivity}" drawable="flyme_store" /><!-- 魅族商城 / 魅族商城 -->
+    <item component="ComponentInfo{com.flyme.meizu.store/com.stub.plugin.Stub01}" drawable="flyme_store" />
+    
+    <item component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}" drawable="flyme_migratool" />
+    
+    <item component="ComponentInfo{com.meizu.flyme.gamecenter/com.meizu.flyme.gamecenter.activity.GameMainActivity}" drawable="flyme7_game" />
+    <item component="ComponentInfo{com.meizu.mcare/com.meizu.mrepair.user.ui.MainActivity}" drawable="flyme_mcare" /><!-- 魅族服务 / 魅族服务 -->
+    <item component="ComponentInfo{com.meizu.mcare/com.meizu.mrepair.user.ui.SplashActivity}" drawable="flyme_mcare" /><!-- mCare / mCare -->
+    <item component="ComponentInfo{com.meizu.mcare/com.meizu.ui.StartActivity}" drawable="flyme_mcare" />
+    
+    <item component="ComponentInfo{com.meizu.smart.wristband/com.meizu.smart.wristband.StartActivity}" drawable="flyme_shouhuan" />

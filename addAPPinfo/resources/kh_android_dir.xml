@@ -1,0 +1,3 @@
+<item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.activities.MDMainActivity}" drawable="kh_android_dir" />
+<item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.activities.CleanActivity}" drawable="kh_android_dir" />
+<item component="ComponentInfo{kh.android.dir/kh.android.dir.ui.Icons.EntryWithMaterialIcon}" drawable="kh_android_dir" />

@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="com_android_stk" />
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="com_android_stk" />
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="com_android_stk" />
+<item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="com_android_stk" />

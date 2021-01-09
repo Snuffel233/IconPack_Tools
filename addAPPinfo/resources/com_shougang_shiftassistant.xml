@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.shougang.shiftassistant/com.shougang.shiftassistant.ui.activity.SplashActivity}" drawable="com_shougang_shiftassistant" />
+<item component="ComponentInfo{com.shougang.shiftassistant/com.shougang.shiftassistant.activity.SplashActivity}" drawable="com_shougang_shiftassistant" />
+<item component="ComponentInfo{com.shougang.shiftassistant/com.shougang.shiftassistant.Splash}" drawable="com_shougang_shiftassistant" />

@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.douban.movie/com.douban.movie.activity.MainActivity}" drawable="com_douban_movie" />
+<item component="ComponentInfo{com.douban.movie/com.douban.movie.activity.SplashActivity}" drawable="com_douban_movie" />
+<item component="ComponentInfo{com.douban.movie/com.douban.movie.app.HomeActivity}" drawable="com_douban_movie" />

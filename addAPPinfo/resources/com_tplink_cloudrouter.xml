@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.InitAppActivity}" drawable="com_tplink_cloudrouter" />
+<item component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.basesection.InitAppActivity}" drawable="com_tplink_cloudrouter" />
+<item component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.WelcomeTPLINKActivity}" drawable="com_tplink_cloudrouter" />

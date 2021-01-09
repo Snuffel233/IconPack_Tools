@@ -1,0 +1,5 @@
+<item component="ComponentInfo{com.kevin.videoplay/com.kevin.videoplay.module.common.SplashActivity}" drawable="com_kevin_videoplay" />
+<item component="ComponentInfo{com.kevin.videoplay/com.qihoo.util.StartActivity}" drawable="com_kevin_videoplay" />
+<item component="ComponentInfo{com.kevin.videoplay/com.stub.stub01.Stub01}" drawable="com_kevin_videoplay" />
+<item component="ComponentInfo{com.kevin.videoplay/com.stub.plugin.Stub01}" drawable="com_kevin_videoplay" />
+<item component="ComponentInfo{com.kevin.videoplay/com.kevin.videoplay.ui.TransitionActivity}" drawable="com_kevin_videoplay" />

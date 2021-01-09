@@ -1,0 +1,4 @@
+	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="oneplus_game_space"/>
+    <item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="oneplus_bbs" />
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.MainActivity}" drawable="oneplus_bbs"/>
+	<item component="ComponentInfo{com.heytap.cloud/com.heytap.cloud.activity.OPCloudSettingsActivity}" drawable="云服务" />

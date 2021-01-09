@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.lijianqiang12.silent/com.lijianqiang12.silent.ui.MainActivity}" drawable="com_lijianqiang12_silent" />
+<item component="ComponentInfo{com.lijianqiang12.silent/com.lijianqiang12.silent.MainActivity}" drawable="com_lijianqiang12_silent" />
+<item component="ComponentInfo{com.lijianqiang12.silent/com.lijianqiang12.silent.ui.SplashActivity}" drawable="com_lijianqiang12_silent" />
+<item component="ComponentInfo{com.lijianqiang12.silent/com.lijianqiang12.silent.ui.activity.SplashActivity}" drawable="com_lijianqiang12_silent" />

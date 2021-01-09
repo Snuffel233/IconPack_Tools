@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.booking/com.booking.activity.StartActivity}" drawable="com_booking" />
+<item component="ComponentInfo{com.booking/com.booking.activity.StartActivity-default-name}" drawable="com_booking" />
+<item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="com_booking" />

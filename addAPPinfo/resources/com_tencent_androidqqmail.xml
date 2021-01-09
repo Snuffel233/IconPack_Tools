@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.LaucherActivity}" drawable="com_tencent_androidqqmail" />
+<item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LaucherActivity}" drawable="com_tencent_androidqqmail" />
+<item component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}" drawable="com_tencent_androidqqmail" />

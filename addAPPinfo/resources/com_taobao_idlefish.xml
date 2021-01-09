@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.activity.InitActivity.Round}" drawable="com_taobao_idlefish" />
+<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity.Round}" drawable="com_taobao_idlefish" />
+<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity.Rect}" drawable="com_taobao_idlefish" />
+<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="com_taobao_idlefish" />

@@ -1,0 +1,4 @@
+<item component="ComponentInfo{ctrip.android.view/ctrip.android.view.splash.CtripSplashActivity}" drawable="ctrip_android_view" />
+<item component="ComponentInfo{ctrip.android.view/ctrip.base.ui.splash.CtripSplashActivity}" drawable="ctrip_android_view" />
+<item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip_android_view" />
+<item component="ComponentInfo{ctrip.android.view/ctrip.android.view.view.CtripDeclarationActivity}" drawable="ctrip_android_view" />

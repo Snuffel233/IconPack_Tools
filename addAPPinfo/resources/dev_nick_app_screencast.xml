@@ -1,0 +1,5 @@
+<item component="ComponentInfo{dev.nick.app.screencast/dev.nick.app.screencast.content.DrawerScreencastActivity}" drawable="dev_nick_app_screencast" />
+<item component="ComponentInfo{dev.nick.app.screencast/dev.nick.app.screencast.content.BDADActivity}" drawable="dev_nick_app_screencast" />
+<item component="ComponentInfo{dev.nick.app.screencast/dev.nick.app.screencast.content.ScreenCastActivity}" drawable="dev_nick_app_screencast" />
+<item component="ComponentInfo{dev.nick.app.screencast/dev.nick.app.screencast.content.DrawerScreenCastActivity}" drawable="dev_nick_app_screencast" />
+<item component="ComponentInfo{dev.nick.app.screencast/dev.nick.app.screencast.content.DrawerScreenCastActivity}" drawable="dev_nick_app_screencast" />

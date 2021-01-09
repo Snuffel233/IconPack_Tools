@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.ilike.cartoon/com.ilike.cartoon.activities.LogoActivity}" drawable="com_ilike_cartoon" />
+<item component="ComponentInfo{com.ilike.cartoon/com.ilike.cartoon.start.LogoActivity}" drawable="com_ilike_cartoon" />
+<item component="ComponentInfo{com.ilike.cartoon/com.qihoo.util.StartActivity}" drawable="com_ilike_cartoon" />

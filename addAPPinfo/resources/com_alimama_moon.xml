@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.alimama.moon/com.alimama.moon.ui.WizardActivity}" drawable="com_alimama_moon" />
+<item component="ComponentInfo{com.alimama.moon/com.alimama.moon.ui.MainTabActivity}" drawable="com_alimama_moon" />
+<item component="ComponentInfo{com.alimama.moon/com.alimama.moon.ui.BottomNavActivity}" drawable="com_alimama_moon" />

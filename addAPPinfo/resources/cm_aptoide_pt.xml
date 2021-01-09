@@ -1,0 +1,6 @@
+<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.entry.EntryActivity}" drawable="cm_aptoide_pt" />
+<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.v8engine.view.entry.EntryActivity}" drawable="cm_aptoide_pt" />
+<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.v8engine.OpenGLES20Activity}" drawable="cm_aptoide_pt" />
+<item component="ComponentInfo{cm.aptoide.pt/com.aptoide.amethyst.MainActivity}" drawable="cm_aptoide_pt" />
+<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.MainActivity}" drawable="cm_aptoide_pt" />
+<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.v8engine.view.OpenGLES20Activity}" drawable="cm_aptoide_pt" />

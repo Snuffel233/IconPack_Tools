@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.activity.account.WelComeActivity}" drawable="com_ximalaya_ting_android" />
+<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.main.activity.account.WelComeActivity}" drawable="com_ximalaya_ting_android" />
+<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.activity.login.WelcomeActivity}" drawable="com_ximalaya_ting_android" />
+<item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="com_ximalaya_ting_android" />

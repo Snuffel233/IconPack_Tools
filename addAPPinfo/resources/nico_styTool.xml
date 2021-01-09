@@ -1,0 +1,3 @@
+<item component="ComponentInfo{nico.styTool/nico.styTool.proguard}" drawable="nico_stytool" />
+<item component="ComponentInfo{nico.styTool/nico.styTool.SplashActivity}" drawable="nico_stytool" />
+<item component="ComponentInfo{nico.styTool/nico.SimpleActivity}" drawable="nico_stytool" />

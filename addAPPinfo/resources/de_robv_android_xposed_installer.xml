@@ -1,0 +1,3 @@
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="de_robv_android_xposed_installer" />
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-dvdandroid}" drawable="de_robv_android_xposed_installer" />
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivitydvdandroid}" drawable="de_robv_android_xposed_installer" />

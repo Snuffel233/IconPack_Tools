@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.biliui.cimyplayer/com.stub.plugin.Stub01}" drawable="com_biliui_cimyplayer" />
+<item component="ComponentInfo{com.biliui.cimyplayer/com.myui.turingdemo.StartActivity}" drawable="com_biliui_cimyplayer" />
+<item component="ComponentInfo{com.biliui.cimyplayer/com.myui.cilidemo.activity.StartActivity}" drawable="com_biliui_cimyplayer" />

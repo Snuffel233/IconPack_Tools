@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.home.HomeActivity}" drawable="com_flyme_meizu_store" />
+<item component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.screen.main.Main2Activity}" drawable="com_flyme_meizu_store" />
+<item component="ComponentInfo{com.flyme.meizu.store/com.stub.plugin.Stub01}" drawable="com_flyme_meizu_store" />
+<item component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity}" drawable="com_flyme_meizu_store" />

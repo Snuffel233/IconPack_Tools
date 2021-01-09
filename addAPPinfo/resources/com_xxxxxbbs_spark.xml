@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.xxxxxbbs.spark/com.xxxxxbbs.spark.activity.SplashActivity}" drawable="com_xxxxxbbs_spark" />
+<item component="ComponentInfo{com.xxxxxbbs.spark/com.qihoo.util.StartActivity}" drawable="com_xxxxxbbs_spark" />
+<item component="ComponentInfo{com.xxxxxbbs.spark/com.stub.stub01.Stub01}" drawable="com_xxxxxbbs_spark" />

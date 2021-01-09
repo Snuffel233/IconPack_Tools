@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.dianping.movieheaven/com.dianping.movieheaven.activity.SplashActivity}" drawable="com_dianping_movieheaven" />
+<item component="ComponentInfo{com.dianping.movieheaven/com.dianping.movieheaven.activity.MainActivity}" drawable="com_dianping_movieheaven" />
+<item component="ComponentInfo{com.dianping.movieheaven/com.qihoo.util.StartActivity}" drawable="com_dianping_movieheaven" />

@@ -1,0 +1,3 @@
+<item component="ComponentInfo{cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.LaunchActivity}" drawable="cn_dxy_medicinehelper" />
+<item component="ComponentInfo{cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.Startup}" drawable="cn_dxy_medicinehelper" />
+<item component="ComponentInfo{cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.DrugLaunchActivity}" drawable="cn_dxy_medicinehelper" />

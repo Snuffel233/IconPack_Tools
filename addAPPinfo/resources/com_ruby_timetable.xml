@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.ruby.timetable/com.ruby.timetable.Activity.MainActivity}" drawable="com_ruby_timetable" />
+<item component="ComponentInfo{com.ruby.timetable/com.qihoo.util.StartActivity}" drawable="com_ruby_timetable" />
+<item component="ComponentInfo{com.ruby.timetable/com.ruby.timetable.activity.MainActivity}" drawable="com_ruby_timetable" />

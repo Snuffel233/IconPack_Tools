@@ -1,0 +1,5 @@
+<item component="ComponentInfo{com.rayark.Cytus.full/com.prime31.UnityPlayerNativeActivity}" drawable="com_rayark_cytus_full" />
+<item component="ComponentInfo{com.rayark.Cytus.full/com.prime31.UnityPlayerProxyActivity}" drawable="com_rayark_cytus_full" />
+<item component="ComponentInfo{com.rayark.Cytus.full/com.rayark.Cytus.full.CytusStarter}" drawable="com_rayark_cytus_full" />
+<item component="ComponentInfo{com.rayark.Cytus.full/com.aiwu.Splash}" drawable="com_rayark_cytus_full" />
+<item component="ComponentInfo{com.rayark.Cytus.full/com.inject.InjectActivity}" drawable="com_rayark_cytus_full" />

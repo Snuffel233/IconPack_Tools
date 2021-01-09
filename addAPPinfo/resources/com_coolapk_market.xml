@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="com_coolapk_market" />
+<item component="ComponentInfo{com.coolapk.market/com.coolapk.market.activity.MainActivity}" drawable="com_coolapk_market" />
+<item component="ComponentInfo{com.coolapk.market/com.coolapk.market.SplashActivity}" drawable="com_coolapk_market" />

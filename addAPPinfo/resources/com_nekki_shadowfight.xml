@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.nekki.shadowfight/com.qihoo.util.StartActivity}" drawable="com_nekki_shadowfight" />
+<item component="ComponentInfo{com.nekki.shadowfight/com.nekki.shadowfight.Main}" drawable="com_nekki_shadowfight" />
+<item component="ComponentInfo{com.nekki.shadowfight/com.aiwu.Splash}" drawable="com_nekki_shadowfight" />
+<item component="ComponentInfo{com.nekki.shadowfight/com.game.nc.PreActivity}" drawable="com_nekki_shadowfight" />

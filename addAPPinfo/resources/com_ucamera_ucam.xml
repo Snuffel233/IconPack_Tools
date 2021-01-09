@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.ucamera.ucam/com.ucamera.ucam.MainActivity}" drawable="com_ucamera_ucam" />
+<item component="ComponentInfo{com.ucamera.ucam/com.ucamera.ucam.StartupActivity}" drawable="com_ucamera_ucam" />
+<item component="ComponentInfo{com.ucamera.ucam/com.ucamera.ucam.CameraActivity}" drawable="com_ucamera_ucam" />

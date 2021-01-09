@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.bandainamcoent.imas_millionlive_theaterdays/com.inca.security.DexProtect.LauncherActivity}" drawable="com_bandainamcoent_imas_millionlive_theaterdays" />
+<item component="ComponentInfo{com.bandainamcoent.imas_millionlive_theaterdays/com.bandainamcoent.imas_millionlive_theaterdays.player.OverrideActivity}" drawable="com_bandainamcoent_imas_millionlive_theaterdays" />
+<item component="ComponentInfo{com.bandainamcoent.imas_millionlive_theaterdays/com.bandainamcoent.imas_millionlive_theaterdays.player.TheaterDaysActivity}" drawable="com_bandainamcoent_imas_millionlive_theaterdays" />

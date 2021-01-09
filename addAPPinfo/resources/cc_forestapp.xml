@@ -1,0 +1,6 @@
+<item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.launch.LaunchActivity}" drawable="cc_forestapp" />
+<item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.plant.PlantViewController}" drawable="cc_forestapp" />
+<item component="ComponentInfo{cc.forestapp/com.jeremy.SplashSpotActivity}" drawable="cc_forestapp" />
+<item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="cc_forestapp" />
+<item component="ComponentInfo{cc.forestapp/cc.forestapp.applications.SplashActivity}" drawable="cc_forestapp" />
+<item component="ComponentInfo{cc.forestapp/cc.forestapp.SplashActivity}" drawable="cc_forestapp" />

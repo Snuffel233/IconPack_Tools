@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.wepie.snake/com.wepie.snake.activity.StartActivity}" drawable="com_wepie_snake" />
+<item component="ComponentInfo{com.wepie.snake/com.example.assetexam.Welcome}" drawable="com_wepie_snake" />
+<item component="ComponentInfo{com.wepie.snake/com.wepie.snake.h1.Welcome}" drawable="com_wepie_snake" />

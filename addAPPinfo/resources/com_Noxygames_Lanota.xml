@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.Noxygames.Lanota/com.unity3d.player.UnityPlayerActivity}" drawable="com_noxygames_lanota" />
+<item component="ComponentInfo{com.Noxygames.Lanota/com.unity3d.player.UnityPlayerNativeActivity}" drawable="com_noxygames_lanota" />
+<item component="ComponentInfo{com.Noxygames.Lanota/com.aiwu.Splash}" drawable="com_noxygames_lanota" />
+<item component="ComponentInfo{com.Noxygames.Lanota/com.qihoo.util.StartActivity}" drawable="com_noxygames_lanota" />

@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.hiwifi/com.hiwifi.gee.mvp.view.activity.splash.SplashActivity}" drawable="com_hiwifi" />
+<item component="ComponentInfo{com.hiwifi/com.hiwifi.ui.app.SplashActivity}" drawable="com_hiwifi" />
+<item component="ComponentInfo{com.hiwifi/com.hiwifi.ui.SplashActivity}" drawable="com_hiwifi" />
+<item component="ComponentInfo{com.hiwifi/com.hiwifi.ui.app.LauncherActivity}" drawable="com_hiwifi" />

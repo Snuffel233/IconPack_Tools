@@ -1,0 +1,5 @@
+<item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="com_vsco_cam" />
+<item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity}" drawable="com_vsco_cam" />
+<item component="ComponentInfo{com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity}" drawable="com_vsco_cam" />
+<item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity}" drawable="com_vsco_cam" />
+<item component="ComponentInfo{com.vsco.cam/com.vsco.cam.SplashActivity}" drawable="com_vsco_cam" />

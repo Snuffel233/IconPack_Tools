@@ -1,0 +1,6 @@
+<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="org_getlantern_lantern" />
+<item component="ComponentInfo{org.getlantern.lantern/org.lantern.activity.LanternMainActivity_}" drawable="org_getlantern_lantern" />
+<item component="ComponentInfo{org.getlantern.lantern/com.qihoo.util.StartActivity}" drawable="org_getlantern_lantern" />
+<item component="ComponentInfo{org.getlantern.lantern/com.stub.stub01.Stub01}" drawable="org_getlantern_lantern" />
+<item component="ComponentInfo{org.getlantern.lantern/org.getlantern.lantern.activity.LanternMainActivity}" drawable="org_getlantern_lantern" />
+<item component="ComponentInfo{org.getlantern.lantern/org.getlantern.lantern.activity.LanternMainActivity_}" drawable="org_getlantern_lantern" />

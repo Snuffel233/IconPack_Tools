@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity}" drawable="com_vimeo_android_videoapp" />
+<item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.LaunchActivity}" drawable="com_vimeo_android_videoapp" />
+<item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.authentication.LaunchActivity}" drawable="com_vimeo_android_videoapp" />

@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.android.appenv.activity.SplashActivity}" drawable="com_sollyu_xposed_hook_model" />
+<item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.xposed.hook.model.MainActivity}" drawable="com_sollyu_xposed_hook_model" />
+<item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.xposed.hook.model.launcher}" drawable="com_sollyu_xposed_hook_model" />
+<item component="ComponentInfo{com.sollyu.xposed.hook.model/com.sollyu.android.appenv.activitys.ActivitySplashAlias}" drawable="com_sollyu_xposed_hook_model" />

@@ -1,0 +1,2 @@
+<item component="ComponentInfo{com.vmall.client/com.vmall.client.activity.VmallWapActivity}" drawable="com_vmall_client" />
+<item component="ComponentInfo{com.vmall.client/com.vmall.client.splash.fragment.SplashActivity}" drawable="com_vmall_client" />

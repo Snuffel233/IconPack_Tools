@@ -1,0 +1,7 @@
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivity}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityWithRoundIcon}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityFakeDrawer}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainActivityWithAnotherIcon}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.MainActivity}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="com_catchingnow_icebox" />
+<item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity}" drawable="com_catchingnow_icebox" />

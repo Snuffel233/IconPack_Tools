@@ -1,0 +1,3 @@
+<item component="ComponentInfo{cn.soulapp.android/com.jzkj.soul.SplashActivity}" drawable="cn_soulapp_android" />
+<item component="ComponentInfo{cn.soulapp.android/com.jzkj.soul.ui.splash.SplashActivity}" drawable="cn_soulapp_android" />
+<item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}" drawable="cn_soulapp_android" />

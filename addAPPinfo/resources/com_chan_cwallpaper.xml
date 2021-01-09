@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="com_chan_cwallpaper" />
+<item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.view.activity.LaunchActivity}" drawable="com_chan_cwallpaper" />
+<item component="ComponentInfo{com.chan.cwallpaper/com.qihoo.util.StartActivity}" drawable="com_chan_cwallpaper" />

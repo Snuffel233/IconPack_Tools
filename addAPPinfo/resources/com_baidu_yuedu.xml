@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.baidu.yuedu/com.baidu.yuedu.splash.SplashActivity}" drawable="com_baidu_yuedu" />
+<item component="ComponentInfo{com.baidu.yuedu/com.baidu.yuedu.base.ui.MainActivity}" drawable="com_baidu_yuedu" />
+<item component="ComponentInfo{com.baidu.yuedu/com.baidu.yuedu.splash.WelcomeActivity}" drawable="com_baidu_yuedu" />

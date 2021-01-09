@@ -1,0 +1,3 @@
+<item component="ComponentInfo{io.simi.homo/io.simi.homo.app.MainActivity}" drawable="io_simi_homo" />
+<item component="ComponentInfo{io.simi.homo/io.simi.homo.activity.HomeActivity}" drawable="io_simi_homo" />
+<item component="ComponentInfo{io.simi.homo/io.simi.homo.activity.StartActivity}" drawable="io_simi_homo" />

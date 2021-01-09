@@ -1,0 +1,3 @@
+<item component="ComponentInfo{fm.jihua.kecheng/fm.jihua.kecheng.ui.activity.BaseSplashActivity}" drawable="fm_jihua_kecheng" />
+<item component="ComponentInfo{fm.jihua.kecheng/fm.jihua.kecheng.ui.activity.home.HomeActivity}" drawable="fm_jihua_kecheng" />
+<item component="ComponentInfo{fm.jihua.kecheng/fm.jihua.kecheng.ui.BaseSplashActivity}" drawable="fm_jihua_kecheng" />

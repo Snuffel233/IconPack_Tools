@@ -1,0 +1,3 @@
+<item component="ComponentInfo{bubei.tingshu/bubei.tingshu.ui.LOGOActivity}" drawable="bubei_tingshu" />
+<item component="ComponentInfo{bubei.tingshu/com.MyMainActivity}" drawable="bubei_tingshu" />
+<item component="ComponentInfo{bubei.tingshu/bubei.tingshu.ui.Home}" drawable="bubei_tingshu" />

@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.sfacg/com.sfacg.SfnovelActivity}" drawable="com_sfacg" />
+<item component="ComponentInfo{com.sfacg/com.sf.ui.launcher.LauncherActivity}" drawable="com_sfacg" />
+<item component="ComponentInfo{com.sfacg/com.qihoo.util.StartActivity}" drawable="com_sfacg" />
+<item component="ComponentInfo{com.sfacg/com.stub.stub01.Stub01}" drawable="com_sfacg" />

@@ -1,0 +1,3 @@
+<item component="ComponentInfo{co.runner.app/co.runner.app.activity.MenuFragmentActivity}" drawable="co_runner_app" />
+<item component="ComponentInfo{co.runner.app/co.runner.app.view.home.ui.HomeActivity}" drawable="co_runner_app" />
+<item component="ComponentInfo{co.runner.app/co.runner.app.activity.SplashActivity}" drawable="co_runner_app" />

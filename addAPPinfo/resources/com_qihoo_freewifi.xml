@@ -1,0 +1,4 @@
+<item component="ComponentInfo{com.qihoo.freewifi/com.qihoo.freewifi.activity.WelcomeActivity}" drawable="com_qihoo_freewifi" />
+<item component="ComponentInfo{com.qihoo.freewifi/com.qihoo.freewifi.main.splash.WelcomeActivity}" drawable="com_qihoo_freewifi" />
+<item component="ComponentInfo{com.qihoo.freewifi/com.qihoo.freewifi.main.page.MainActivity}" drawable="com_qihoo_freewifi" />
+<item component="ComponentInfo{com.qihoo.freewifi/com.qihoo.util.StartActivity}" drawable="com_qihoo_freewifi" />

@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.souget.get/com.souget.get.activity.MainActivity}" drawable="com_souget_get" />
+<item component="ComponentInfo{com.souget.get/com.souget.get.activity.SplashActivity}" drawable="com_souget_get" />
+<item component="ComponentInfo{com.souget.get/com.qihoo.util.StartActivity}" drawable="com_souget_get" />

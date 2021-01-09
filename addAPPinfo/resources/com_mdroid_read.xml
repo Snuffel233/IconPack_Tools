@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}" drawable="com_mdroid_read" />
+<item component="ComponentInfo{com.mdroid.read/com.mdroid.read.WelcomeAliasActivity}" drawable="com_mdroid_read" />
+<item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeAliasActivity}" drawable="com_mdroid_read" />

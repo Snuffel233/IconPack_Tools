@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.shuqi.controller/com.shuqi.activity.SplashActivity}" drawable="com_shuqi_controller" />
+<item component="ComponentInfo{com.shuqi.controller/com.shuqi.controller.Loading}" drawable="com_shuqi_controller" />
+<item component="ComponentInfo{com.shuqi.controller/com.qihoo.util.StartActivity}" drawable="com_shuqi_controller" />

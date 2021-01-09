@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.WelcomeActivity}" drawable="com_shoujiduoduo_ringtone" />
+<item component="ComponentInfo{com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.RingToneDuoduoActivity}" drawable="com_shoujiduoduo_ringtone" />
+<item component="ComponentInfo{com.shoujiduoduo.ringtone/com.qihoo.util.StartActivity}" drawable="com_shoujiduoduo_ringtone" />

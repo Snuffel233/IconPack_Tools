@@ -1,0 +1,7 @@
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.StartActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.CcbSplashActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.mbs.main.StartActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.chinamworld.main.BTCCMWStartActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.StartActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.mbs.main.StartActivity}" drawable="com_chinamworld_main" />
+<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.CcbSplashActivity}" drawable="com_chinamworld_main" />

@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.delsart.bookdownload/com.delsart.bookdownload.MainActivity}" drawable="com_delsart_bookdownload" />
+<item component="ComponentInfo{com.delsart.bookdownload/com.delsart.bookdownload.ui.activity.MainActivity}" drawable="com_delsart_bookdownload" />
+<item component="ComponentInfo{com.delsart.bookdownload/com.delsart.bookdownload.SplashhActivity}" drawable="com_delsart_bookdownload" />

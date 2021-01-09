@@ -1,0 +1,3 @@
+<item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.BrowseActivity}" drawable="com_ballistiq_artstation" />
+<item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.MainActivity}" drawable="com_ballistiq_artstation" />
+<item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.DiscoverActivity}" drawable="com_ballistiq_artstation" />

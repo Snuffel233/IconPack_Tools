@@ -1,0 +1,6 @@
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="com_kiloo_subwaysurf" />
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.pubsky.game.impl.ui.SplashActivity}" drawable="com_kiloo_subwaysurf" />
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurf.GameStartActivity}" drawable="com_kiloo_subwaysurf" />
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.aiwu.Splash}" drawable="com_kiloo_subwaysurf" />
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.qihoo.util.StartActivity}" drawable="com_kiloo_subwaysurf" />
+<item component="ComponentInfo{com.kiloo.subwaysurf/com.game.nc.PreActivity}" drawable="com_kiloo_subwaysurf" />

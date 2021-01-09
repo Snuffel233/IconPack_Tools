@@ -1,0 +1,5 @@
+<item component="ComponentInfo{com.rayark.pluto/com.prime31.UnityPlayerNativeActivity}" drawable="com_rayark_pluto" />
+<item component="ComponentInfo{com.rayark.pluto/com.aiwu.Splash}" drawable="com_rayark_pluto" />
+<item component="ComponentInfo{com.rayark.pluto/com.inject.InjectActivity}" drawable="com_rayark_pluto" />
+<item component="ComponentInfo{com.rayark.pluto/com.chongchong.Welcome}" drawable="com_rayark_pluto" />
+<item component="ComponentInfo{com.rayark.pluto/com.prime31.UnityPlayerProxyActivity}" drawable="com_rayark_pluto" />
